@@ -1,0 +1,13 @@
+Язык.                       Language.
+Человек.                    Human.
+Природа.                    Nature.
+Машина.                     Machine.
+Взаимодействие.             Interaction.
+Программирование.           Programming.
+Текст.                      Text.
+Алфавит.                    Alphabet.
+Слово.                      Word.
+Языковое взаимодействие:    Lingual interaction:
+* человек - человек,        * human - human,
+* человек - машина,         * human - machine,
+* человек - Природа.        * human - Nature.
