@@ -1,3 +1,5 @@
-(c) Copyright 2015 Vladimir A. Kropylev. All rights reserved.
-This copyright notice applies to the entire repository available at
-https://github.com/codingtruth/shared.git
+/*****************************************************************************
+ *       (c) Copyright 2015 Vladimir A. Kropylev. All rights reserved.       *
+ *    This copyright notice applies to the entire repository available at    *
+ *                 https://github.com/codingtruth/shared.git                 *
+ *****************************************************************************/
